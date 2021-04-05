@@ -1,2 +1,2 @@
 # alarex_infra
-alarex Infra repository
+alarex infra repository
